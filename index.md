@@ -1,9 +1,6 @@
 ---
-title: Home
+title: ReStud
 isHome: true
 layout: index
 ---
-
-# Real, beautiful plants right to your door
-
- 
+# Have a safe ride
